@@ -1,7 +1,9 @@
 D:\Testes\GFT\GFT_ConsoleApp_MarcusVPAzevedo\GFT_ConsoleApp_MarcusVPAzevedo\UnitTestProject\bin\Debug\UnitTestProject.dll
 D:\Testes\GFT\GFT_ConsoleApp_MarcusVPAzevedo\GFT_ConsoleApp_MarcusVPAzevedo\UnitTestProject\bin\Debug\UnitTestProject.pdb
 D:\Testes\GFT\GFT_ConsoleApp_MarcusVPAzevedo\GFT_ConsoleApp_MarcusVPAzevedo\UnitTestProject\bin\Debug\GFT_ConsoleApp_MarcusVPAzevedo.exe
+D:\Testes\GFT\GFT_ConsoleApp_MarcusVPAzevedo\GFT_ConsoleApp_MarcusVPAzevedo\UnitTestProject\bin\Debug\nunit.framework.dll
 D:\Testes\GFT\GFT_ConsoleApp_MarcusVPAzevedo\GFT_ConsoleApp_MarcusVPAzevedo\UnitTestProject\bin\Debug\GFT_ConsoleApp_MarcusVPAzevedo.pdb
+D:\Testes\GFT\GFT_ConsoleApp_MarcusVPAzevedo\GFT_ConsoleApp_MarcusVPAzevedo\UnitTestProject\bin\Debug\nunit.framework.xml
 D:\Testes\GFT\GFT_ConsoleApp_MarcusVPAzevedo\GFT_ConsoleApp_MarcusVPAzevedo\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
 D:\Testes\GFT\GFT_ConsoleApp_MarcusVPAzevedo\GFT_ConsoleApp_MarcusVPAzevedo\UnitTestProject\obj\Debug\UnitTestProject.dll
 D:\Testes\GFT\GFT_ConsoleApp_MarcusVPAzevedo\GFT_ConsoleApp_MarcusVPAzevedo\UnitTestProject\obj\Debug\UnitTestProject.pdb
